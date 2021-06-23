@@ -10,11 +10,11 @@
 
 ## MBA e Certificações:
 
-> #### <code>Databricks Engineer & SQL Analytics with Apache Spark™ 3.0</code>
+> #### <code>Databricks: Data Engineer & SQL Analytics with Apache Spark™ 3.0</code>
 > #### <code>MCSE: Data Management and Analytics Microsoft</code>
 > #### <code>MCSA: Data Engineering with Azure Microsoft</code>
-> #### <code>MBA em Ciência de Dados com ênfase em Big Data</code>
-> #### <code>MBA em Engenharia de Dados com ênfase em Big Data</code>
+> #### <code>MBA: Ciência de Dados com ênfase em Big Data</code>
+> #### <code>MBA: Engenharia de Dados com ênfase em Big Data</code>
 
 <br>
 
