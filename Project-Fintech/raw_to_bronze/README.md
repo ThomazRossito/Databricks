@@ -50,7 +50,7 @@ Como empresa, também processamos alguns dados externos para ajudar na nossa tom
 
 1. Crie tabelas ** bronze **: a primeira camada com pouca intervenção, apenas lendo da fonte e salvando-as como ** Tabelas Delta **.
 2. Crie tabelas ** silver **: a segunda camada com cálculos intensos envolvendo limpeza, joining, feature engineering, e windowing.
-3. Crie tabelas ** gold **: a camada final com agregação e aplicação de regras de negócios.
+3. Crie tabelas ** gold **: a camada final com agregação e aplicação de regras de negócios.                                                 
 
 
 
