@@ -1,4 +1,4 @@
-<img src="https://files.training.databricks.com/images/Apache-Spark-Logo_TM_200px.png" style="float: left: margin: 20px"/>
+<img src="https://files.training.databricks.com/images/Apache-Spark-Logo_TM_200px.png" style="float: left: margin: 10px"/>
 
 
 # Pipeline de ingestão: 
