@@ -52,5 +52,5 @@ Como empresa, também processamos alguns dados externos para ajudar na nossa tom
 2. Crie tabelas ** silver **: a segunda camada com cálculos intensos envolvendo limpeza, joining, feature engineering, e windowing.
 3. Crie tabelas ** gold **: a camada final com agregação e aplicação de regras de negócios.
 
-
+<p>
 [Databrciks Partner](https://academy.databricks.com/?_gl=1*1mslkmb*_gcl_aw*R0NMLjE2MjUzMDEyOTMuQ2p3S0NBandsWUNIQmhBUUVpd0E0SzIxbTZYakJDSzM0aE9JVktDaV9hWVE2T09HZ1N1TWFoQllhVWFJZ3BHUVpXOTlUY0FyWmpnNHVCb0NsblVRQXZEX0J3RQ..&_ga=2.65417710.1512010725.1624893208-1426243253.1622298680)  
