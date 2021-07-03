@@ -4,7 +4,7 @@
 # Pipeline de ingestão: 
 
 
-##  **Source para Bronze:**
+##  **Raw para Bronze:**
 
 >  * **00-Introdução**
 >  * **01-Ativos**
