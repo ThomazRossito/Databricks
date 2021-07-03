@@ -4,9 +4,9 @@
 # Pipeline de ingestão: 
 
 
-> ### - **Raw para Bronze:**
-> ### - **Bronze para Silver:**
-> ### -  **Source para Gold:**
+> ### - **01 - Raw para Bronze:**
+> ### - **02 - Bronze para Silver:**
+> ### - **03 - Source para Gold:**
 
 
 <h2 style="color:red">Informações: Projeto e Dataset</h2>
