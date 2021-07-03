@@ -1,9 +1,9 @@
 <img src="https://files.training.databricks.com/images/Apache-Spark-Logo_TM_200px.png" style="float: left: margin: 20px"/>
 
-<br>
+
 # Pipelines
 
-<br>
+
 ###  **Source para Bronze:**
 >  * **01-Ativos**
 >  * **02-Investors**
