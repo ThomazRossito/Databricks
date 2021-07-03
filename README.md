@@ -25,12 +25,3 @@
 > #### <code> Linkedin: <a href="https://www.linkedin.com/in/thomaz-antonio-rossito-neto/"> Thomaz A. Rossito Neto </a> </code>
 > #### <code> GitHub: <a href="https://github.com/ThomazRossito"> github.com/ThomazRossito </a> </code>
 > #### <code> Site Pessoal: <a href="www.thomazrossito.com.br"> www.thomazrossito.com.br </a> </code>
-
-
-<br>
-<br>
-
-## Méritos de trabalho e parceria: 
- 
-#### `POC-Apresentação` foi desenvovida por mim (Thomaz) e pelo meu parceiro <code> Rodrigo de Lima Oliveira - Data Scientist </code> <br>
-#### <code> Linkedin: <a href="https://www.linkedin.com/in/rodrigolima82/"> Rodrigo Lima </a> </code>
