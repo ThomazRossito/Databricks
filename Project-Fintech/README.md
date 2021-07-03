@@ -1,7 +1,11 @@
-<img src="https://files.training.databricks.com/images/Apache-Spark-Logo_TM_200px.png" style="float: left: margin: 10px"/>
+<img src="https://files.training.databricks.com/images/Apache-Spark-Logo_TM_200px.png" style="float: left: margin: 10px"/> <img src="https://databricks.com/wp-content/uploads/2021/06/db-pride-logo.svg" style="float: left: margin: 10px"/>
 
 
-# Pipeline de ingestão: 
+
+<h1 style="color:red">Projeto - Ambiente Fintech</h1>
+
+
+## Pipeline de ingestão: 
 
 
 > ### **01 - Raw para Bronze:**
