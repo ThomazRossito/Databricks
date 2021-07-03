@@ -11,11 +11,10 @@
 >  * **04-Transações de estoque**
 >  * **05-Dados macro**
 
-<br>
-%md-sandbox
+
 <h2 style="color:red">Informações: Projeto e Dataset</h2>
 
-<br>
+
 ### Datasets:
 
 > - **`produtos.csv`**
@@ -27,7 +26,7 @@
 > - **`loan_requests.xml`**
 > - **`macro.csv`**
 
-<br>
+
 ### Projeto:                      
 
 Este é um ambiente Fintech online que fornece um sistema de negociação de ações. A empresa oferece um portal onde os investidores podem comprar e vender ações e solicitar empréstimos para voltar a investir. Os dois principais tipos de transação são Solicitações de Empréstimos e Transações de Estoque.
@@ -46,7 +45,7 @@ Pedidos de empréstimo (**`loan_requests.xml`**) são os segundos dados transaci
 
 Como empresa, também processamos alguns dados externos para ajudar na nossa tomada de decisão. Uma de nossas fontes são os Dados Macroeconômicos (**`macro.csv`**) que não tem conexão com nossos conjuntos de dados internos: recebemos mensalmente do banco central e contém alguns indicadores macroeconômicos como desemprego e PIB. Isso nos ajuda a construir uma única métrica decimal e a usamos para atualizar a pontuação de crédito dos investidores, que serve como base para aprovar ou desaprovar suas solicitações de empréstimo.
 
-<br>
+
 ## Processamento dos dados: fluxo em três etapas:
 
 1. Crie tabelas ** bronze **: a primeira camada com pouca intervenção, apenas lendo da fonte e salvando-as como ** Tabelas Delta **.
