@@ -27,7 +27,7 @@
 > - **`macro.csv`**
 
 
-### Projeto:                      
+### Sobre o Projeto:                      
 
 Este é um ambiente Fintech online que fornece um sistema de negociação de ações. A empresa oferece um portal onde os investidores podem comprar e vender ações e solicitar empréstimos para voltar a investir. Os dois principais tipos de transação são Solicitações de Empréstimos e Transações de Estoque.
 
