@@ -4,6 +4,9 @@
 # Pipeline de ingestão: 
 
 
+***`(Em andamento)`***
+
+
 ##  **Silver para Bronze:**
 
 >  * **01-Negociações vs Empréstimo**
